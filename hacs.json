@@ -1,7 +1,7 @@
 {
-  "name": "Garbage Collection",
+  "name": "Garbage Collection - Wroadd fork",
   "zip_release": true,
   "filename": "garbage_collection.zip",
   "domains": ["sensor"],
-  "homeassistant": "2022.12.0b0"
+  "homeassistant": "2023.04.01"
 }
