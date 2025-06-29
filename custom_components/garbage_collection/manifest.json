@@ -1,8 +1,8 @@
 {
   "domain": "garbage_collection",
-  "name": "Garbage Collection",
+  "name": "Garbage Collection - Wroadd",
   "codeowners": [
-    "@bruxy70"
+    "@wroadd"
   ],
   "config_flow": true,
   "dependencies": [],
