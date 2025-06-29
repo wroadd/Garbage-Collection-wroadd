@@ -1,5 +1,5 @@
 Original work from bruxy70. He stopped the support of this custom_component, but my waste management schedule was set up with this component and can not be replaced with any other calendar based solution (waste management time are set to odd and even week numbers).
-So I've made a "live menento" for this custom_component.
+So I've made a "live menento" for this custom_component. Updated with neccessary modification.
 ## Table of Contents
 
 - [Description](#garbage-collection)
